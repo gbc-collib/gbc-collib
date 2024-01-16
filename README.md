@@ -2,6 +2,7 @@
 
 I'm a full-time web developer and a programming student at Tri-C. Here's a bit about me:
 
+- Vim user BTW and very passionate about vim tooling! Explore my dotfiles repo for my setup.
 - 🔭 I’m currently working on web projects using TypeScript, Angular, and Node.js.
 - 🌱 I’m always learning and currently diving into Rust, web assembly, and HTMX (very trendy I know)
 - 👯 I’m open to collaborations, especially in the realm of web development.
