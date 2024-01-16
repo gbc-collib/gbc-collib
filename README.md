@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**gbc-collib/gbc-collib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-time web developer and a programming student at Tri-C. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on web projects using TypeScript, Angular, and Node.js.
+- 🌱 I’m always learning and currently diving into Rust, web assembly, and HTMX (very trendy I know)
+- 👯 I’m open to collaborations, especially in the realm of web development.
+- 💬 Ask me about anything related to TypeScript, Angular, or Node.js—I love a good tech discussion.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also exploring game development with Godot and honing my skills in pixel art to create a game completely from ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+
+- 📫 How to reach me on twitter or at collinstasiak@gmail.com
+- Twitter: https://twitter.com/gbc_collib
+
+Feel free to explore my repositories and don't hesitate to reach out! Let's code and create together. 🚀
