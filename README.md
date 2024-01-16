@@ -9,6 +9,7 @@ I'm a full-time web developer and a programming student at Tri-C. Here's a bit a
 - 💬 Ask me about anything related to TypeScript, Angular, or Node.js—I love a good tech discussion.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also exploring game development with Godot and honing my skills in pixel art to create a game completely from ground up.
+- My hobbies include playing guitar currently really into hardcore bands like TitleFight.
 
 ### Get in Touch
 
