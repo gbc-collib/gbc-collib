@@ -14,6 +14,5 @@ I'm a full-time web developer and a programming student at Tri-C. Here's a bit a
 ### Get in Touch
 
 - 📫 How to reach me on twitter or at collinstasiak@gmail.com
-- Twitter: https://twitter.com/gbc_collib
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's code and create together. 🚀
