@@ -1,18 +1,31 @@
-### Hi there! 👋
+### Hey there! 👋 I'm Collin Stasiak
 
-I'm a full-time web developer Tri-C graduate (go triceratops). Here's a bit about me:
+I'm a full-time web developer and Tri-C graduate (go Triceratops!) with a strong background in building custom internal tools for a Security Operations Center (SOC). Over the past two years, I’ve developed and maintained production-grade applications with a focus on performance, security, and usability—helping analysts work faster, smarter, and safer.
 
-- Vim user BTW and very passionate about vim tooling! Explore my dotfiles repo for my setup.
-- 🔭 I’m currently working on web projects using TypeScript, Angular, and Node.js.
-- 🌱 I’m always learning and currently diving into go-lang
-- 👯 I’m open to collaborations, especially in the realm of web development.
-- 💬 Ask me about anything related to TypeScript, Angular, or Node.js—I love a good tech discussion.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also exploring game development with Godot and honing my skills in pixel art to create a game completely from ground up.
-- My hobbies include playing guitar currently really into hardcore bands like TitleFight.
+---
 
-### Get in Touch
+### 🧠 What I Do
 
-- 📫 How to reach me on twitter or at collinstasiak@gmail.com
+- 🔐 **Security-Focused Development**: I’ve spent the last 2 years working closely with SOC analysts, building tools to visualize threat data, automate reporting, and reduce manual overhead. Security-first coding practices are second nature to me.
+- 🧰 **Tech Stack**: Daily driver of TypeScript, Angular, Node.js, and PostgreSQL. Comfortable with Python scripting and exploring Go for backend services.
+- 🧪 **Rapid Prototyping**: Agile development cycles and user-centered design are a must—what we build gets used in the real world, fast.
+- ⚙️ **Dev Tooling**: A passionate Vim user with a lovingly curated [dotfiles repo](https://github.com/gbc-collib/dotfiles) (check it out!). Obsessed with a clean, fast, and productive dev environment.
 
-Feel free to explore my repositories and don't hesitate to reach out! Let's code and create together. 🚀
+---
+
+### 🚀 Currently Working On
+
+- Modern Angular dashboards for real-time security analytics and onboardings
+- CLI tools for threat hunting and alert triage
+- Learning Go to deepen my systems programming chops
+- Exploring Godot + pixel art for a custom game project
+
+---
+
+### 💬 Let’s Connect
+
+- 🖥️ Always open to collaboration—especially on open-source or security tooling
+- 🎸 Outside of work, I’m probably playing guitar, jamming Title Fight, or grinding in OSRS
+- 📫 Reach me at **collinstasiak@gmail.com** or [on LinkedIn](https://www.linkedin.com/in/collin-stasiak/)
+
+---
