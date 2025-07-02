@@ -13,7 +13,6 @@ I'm a full-time web developer and Tri-C graduate (go Triceratops!) with a strong
 ---
 
 ### 🚀 Currently Working On
-
 - Custom Vim plugin using lua
 - Modern Angular dashboards for real-time security analytics and onboardings
 - CLI tools for threat hunting and alert triage
@@ -24,7 +23,7 @@ I'm a full-time web developer and Tri-C graduate (go Triceratops!) with a strong
 ### 💬 Let’s Connect
 
 - 🖥️ Always open to collaboration—especially on open-source or security tooling
-- 🎸 Outside of work, I’m probably playing guitar, jamming Title Fight, or grinding in OSRS
+- 🎸 Outside of work, super into bands like title fight, high fashion, and old school runescape
 - 📫 Reach me at **collinstasiak@gmail.com** or [on LinkedIn](https://www.linkedin.com/in/collin-stasiak/)
 
 ---
