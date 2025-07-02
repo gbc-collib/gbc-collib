@@ -28,3 +28,4 @@ I'm a full-time web developer and Tri-C graduate (go Triceratops!) with a strong
 - 📫 Reach me at **collinstasiak@gmail.com** or [on LinkedIn](https://www.linkedin.com/in/collin-stasiak/)
 
 ---
+In my personal life I live by, "Why spend 5 minutes every week doing a task when I can spend 20 hours once automating it"
