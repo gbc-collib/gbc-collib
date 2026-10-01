@@ -26,7 +26,7 @@ TypeScript is my daily driver. I've been writing Python since I was 12 (the comm
 ## Side Projects
 
 - 🔧 **Neovim plugin in Lua:** [one-line description of what it does]
-- 🕵️ **CLI tools for threat hunting and alert triage**
+- 🕵️ **CLI tools for log parsing, open telemetry collector management, and dipping my toe into claude skills**
 - 🎮 **Pixel-art game in Godot**
 - ⚙️ **[Dotfiles](https://github.com/gbc-collib/dotfiles):** my curated Neovim-centered dev environment
 
