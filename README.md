@@ -1,6 +1,6 @@
 ### Hey there! I'm Collin Stasiak
 
-I'm a full-time web developer and Tri-C graduate (go Triceratops!) with a strong background in building custom internal tools for a Security Operations Center (SOC). Over the past two years, I’ve developed and maintained production-grade applications with a focus on performance, security, and usability—helping analysts work faster, smarter, and safer.
+I'm a full-time developer lead engineer at RSM and Tri-C graduate (go Triceratops!) with a strong background in building custom internal tools for a SOC. Over the past three years, I’ve developed and maintained production-grade applications with a focus on performance, security, and usability—helping analysts work faster, smarter, and safer.
 
 ---
 
