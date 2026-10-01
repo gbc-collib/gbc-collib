@@ -1,27 +1,39 @@
-### Hey there! I'm Collin Stasiak
+# Hey, I'm Collin Stasiak 👋
 
-I'm a full-time developer lead engineer at RSM and Tri-C graduate (go Triceratops!) with a strong background in building custom internal tools for a SOC. Over the past three years, I’ve developed and maintained production-grade applications with a focus on performance, security, and usability—helping analysts work faster, smarter, and safer.
+**Lead Engineer at RSM** building internal tools for a Security Operations Center. I turn noisy threat data and manual analyst workflows into fast, reliable software.
 
----
+I'm a Tri-C grad (go Triceratops 🦖) who has spent the last few years shipping and maintaining production applications where performance, security, and usability all matter.
 
-###  What I Do
+## What I Do
 
--  **Security-Focused Development**: I’ve spent the last 2 years working closely with SOC analysts, building tools to visualize threat data, automate reporting, and reduce manual overhead. Security-first coding practices are second nature to me.
-- **Tech Stack**: Daily driver of TypeScript, Angular, Node.js, and PostgreSQL. I have been coding python since 12(check my commits if you don't believe me) but I fall back to js for my high level languages these days. I've been exploring Go for backend services.
-- **Dev Tooling**: A passionate Vim user with a lovingly curated [dotfiles repo](https://github.com/gbc-collib/dotfiles) (check it out!). Obsessed with a clean, fast, and productive dev environment.
+- **SOC tooling:** Dashboards, automation, and reporting that help analysts triage faster and spend less time on repetitive work. Single handly planned and wrote our entire client lifecycle internal portal which automates deploying over 5+ security tools saving ~5 hours per onboard/offboard/true up
+- **Full-stack development:** react front ends backed by Node.js and PostgreSQL, built secure by default.
+- **Technical leadership:** Owning architecture decisions, reviewing code, and helping the team ship with confidence. [Optional: team size, mentoring, onboarding]
 
----
+## Tech
 
-### Currently Working On
-- Custom Vim plugin using lua
-- Modern Angular dashboards for real-time security analytics and onboardings
-- CLI tools for threat hunting and alert triage
-- Learning Go to deepen my systems programming chops
-- Exploring Godot + pixel art for a custom game project
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
-### Connect
+TypeScript is my daily driver. I've been writing Python since I was 12 (the commit history backs this up), and I'm increasingly reaching for Go on backend services and CLI tools.
 
-- Always open to collaboration—especially on open-source or security tooling
--  Reach me [on LinkedIn](https://www.linkedin.com/in/collin-stasiak/)
--  OSRS: Sharky Moto
+## Side Projects
+
+- 🔧 **Neovim plugin in Lua:** [one-line description of what it does]
+- 🕵️ **CLI tools for threat hunting and alert triage**
+- 🎮 **Pixel-art game in Godot**
+- ⚙️ **[Dotfiles](https://github.com/gbc-collib/dotfiles):** my curated Neovim-centered dev environment
+
+## Let's Connect
+
+I'm always up for collaborating on open-source projects, especially security tooling.
+
+[LinkedIn](https://www.linkedin.com/in/collin-stasiak/) · [Dotfiles](https://github.com/gbc-collib/dotfiles)
+
+*Off the clock: OSRS ironman @Sharky Moto.* 🦈
