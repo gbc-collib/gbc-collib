@@ -1,6 +1,6 @@
 # Hey, I'm Collin Stasiak 👋
 
-**Lead Engineer at RSM** building internal tools for a Security Operations Center. I turn noisy threat data and manual analyst workflows into fast, reliable software.
+**Engineering Lead at RSM** building internal tools for a Security Operations Center. I turn noisy threat data and manual analyst workflows into fast, reliable software.
 
 I'm a Tri-C grad (go Triceratops 🦖) who has spent the last few years shipping and maintaining production applications where performance, security, and usability all matter.
 
@@ -8,7 +8,7 @@ I'm a Tri-C grad (go Triceratops 🦖) who has spent the last few years shipping
 
 - **SOC tooling:** Dashboards, automation, and reporting that help analysts triage faster and spend less time on repetitive work. Single handly planned and wrote our entire client lifecycle internal portal which automates deploying over 5+ security tools saving ~5 hours per onboard/offboard/true up
 - **Full-stack development:** react front ends backed by Node.js and PostgreSQL, built secure by default.
-- **Technical leadership:** Owning architecture decisions, reviewing code, and helping the team ship with confidence. [Optional: team size, mentoring, onboarding]
+- **Technical leadership:** Owning architecture decisions, reviewing code, and helping the team of 5 with confidence.
 
 ## Tech
 
